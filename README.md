@@ -1,2 +1,1 @@
-# Student_Administration_System
-A Sponsored project by BITS teaching institute.
+#Student Management System using PyQT
