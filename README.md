@@ -48,3 +48,9 @@ Version Control<br>
 <br>
 Invoice-Bill print<br>
 <img src="https://user-images.githubusercontent.com/65451201/122639249-81acc000-d116-11eb-987b-d422c453011b.png" width="600">
+Android app Prototype<br>
+
+
+https://user-images.githubusercontent.com/65451201/227706141-ec775cef-b04e-4638-bc02-f12d6c253c45.mp4
+
+
